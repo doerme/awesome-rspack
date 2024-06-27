@@ -50,13 +50,13 @@
 - [shark](https://github.com/h7ml/shark): A React project with Rspack, Ant Design, Ant Design Pro Components, Antd@5 React@18 AntV G2Plot, ahooks, react-use, Axios, i18next, localforage, Mock.js, NProgress, and more.
 - [electron-react-rspack](https://github.com/RyanProMax/electron-react-rspack): An Electron boilerplate including TypeScript, React, Rspack and ESLint.
 - [pareto](https://github.com/childrentime/pareto): A lightweight SSR framework centered on stream rendering.
+- [emp3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
 
 ### Rsbuild Starter
 
 - [rsbuild_vue3_h5_template](https://github.com/DMaiGit/rsbuild_vue3_h5_template): A project template for Vue 3. It includes popular libraries such as Axios, Pinia, Vant, and Vue Router.
 - [rsbuild-chrome-extension-boilerplate-react](https://github.com/filc-dev/rsbuild-chrome-extension-boilerplate-react): Chrome extension boilerplate for Rsbuild.
 - [rsbuild-plugin-template](https://github.com/rspack-contrib/rsbuild-plugin-template): Use this template to create your own Rsbuild plugin.
-- [react-antd-admin-pro](https://github.com/cl1107/react-antd-admin-pro): An admin project template for React. It's built with Rsbuild, React 18, TypeScript 5, antd 5, and React Router.
 
 ## Plugins
 
